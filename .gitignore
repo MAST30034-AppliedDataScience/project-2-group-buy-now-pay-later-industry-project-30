@@ -130,6 +130,7 @@ dmypy.json
 
 # data
 data/curated/
+data/landing/
 data/tables/
 data/transactions/
 data/raw/
