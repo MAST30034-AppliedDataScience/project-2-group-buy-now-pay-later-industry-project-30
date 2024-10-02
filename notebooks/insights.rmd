@@ -1,0 +1,15 @@
+
+
+#Analysis of Datasets 
+
+>There are 4026 merchants and 499999 consumers who have purchased from these merchants 
+>Since Addresses are not real the analysis has been done on the postcodes for consumers 
+> All transactions made over a one and half year period amounting to over 1500000 have been accumulated
+> The consumer fraid and merchant fraud rate for transactions have been noted.
+> Fraud values have been imputed with most fraud rates lying between 10 to 30% a
+
+
+>Total sales and revenue for each merchant has been calculated which has revealed a large range for each attribute
+> Since we have over 4000 merchants and require 100 we have selected the highest merchants based on these values 
+
+>For the next 1000 merchants a 
