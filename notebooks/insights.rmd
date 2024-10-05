@@ -23,3 +23,49 @@ Choosing Merchants
 > Since we have over 4000 merchants and require 100 we have selected the highest merchants based on these values 
 
 >For the next 1000 merchants a 
+
+Outdoor Suppiles/vehicles
+
+Technolgy/Books/Music ; Digital and Entertainment 
+Health 
+Accessories
+Equipment
+
+
+
+
+
+
+
+['jewelry, watch, clock, silverware', - Accessories 
+ 'art dealers, galleries', - Entertainment
+ 'telecom', - Digital 
+ 'equipment, tool, furniture, appliance rental, leasing', - Consumer Goods 
+ 'stationery, office supplies, printing, writing paper', - Consumer Goods 
+ 'antique, repairs, restoration', - Furniture  
+ 'florists supplies, nursery stock, flowers', - Consumer Goods 
+ 'bicycle,', - Consumer Goods 
+ 'hobby, toy, game', - Entertainment 
+ 'health, beauty spas', - Health
+ 'motor vehicle supplies, new parts', - Consumer Goods 
+ 'music, musical instruments, pianos, sheet music', - Entertainment 
+ 'books, periodicals, newspapers', - Entertainment 
+ 'lawn, garden supply outlets, including nurseries', - Consumer Goods  
+ 'shoe', - Consumer Goods 
+ 'artist supply, craft', - Entertainment 
+ 'furniture, home furnishings, equipment, manufacturers', - Consumer Goods 
+ 'computer programming, data processing, integrated systems design', - Digitals 
+ 'computers, computer peripheral equipment, software', - Digital
+ 'opticians, optical goods, eyeglasses', - Health
+ 'cable, satellite, other pay television, radio', - Entertainment 
+ 'watch, clock, jewelry repair', - Accesrrois 
+ 'gift, card, novelty, souvenir', - Accesrrois
+ 'digital goods, books, movies, music', - Entertainment
+ 'tent, awning' - Entertainment ]
+
+ Health
+ Outdoor
+ Consumer Goods
+ Entertainment
+ Digital 
+ Accessories
