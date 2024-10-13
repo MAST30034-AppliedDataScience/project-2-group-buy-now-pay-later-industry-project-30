@@ -27,3 +27,12 @@ Please update this README file as you add new data.
 - Due to a difference between the internal system and a poor design choice (for some reason), the transaction tables use a surrogate key for each new `user_id`.
 - However, the Consumer table has a unique ID (some are missing on purpose) field which will require some form of mapping between `consumer_id` to `user_id`.
 - An additional mapping table has been provided to join the two datasets together.
+
+
+## Census Data 
+
+- The 2021 recent release of census data has been used to combine with the originally provided data. The datasets have been combined based on the postcodes of consumers 
+
+
+## Retail Sales Data 
+- The retail monthly sales by state from the ABS Website has been and combined with the original data based on month, location and year. 
