@@ -10,7 +10,7 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 
 # Members
 
-1. Name: Andy Chen | Student Number: 
+1. Name: Andy Chen | Student Number: 1353448
 2. Name: Alan Lu | Student Number: 1270431
 3. Name: Amisha Rajput | Student Number: 1290253
 
