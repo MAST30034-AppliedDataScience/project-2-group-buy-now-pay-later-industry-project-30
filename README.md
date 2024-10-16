@@ -5,7 +5,7 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 
 # Summary 
 
-- This repostiory contains the code to run **Industry Project Group 30's ** work on the BNPL project for MAST30034: Applied Data Science 
+- This repostiory contains the code to run **Industry Project Group 30's** work on the BNPL project for MAST30034: Applied Data Science 
 
 
 # Members
