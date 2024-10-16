@@ -11,7 +11,7 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 # Members
 
 1. Name: Andy Chen | Student Number: 
-2. Name: Alan Lu | Student Number: 
+2. Name: Alan Lu | Student Number: 1270431
 3. Name: Amisha Rajput | Student Number: 1290253
 
 The following files should be run in the order as described below.
