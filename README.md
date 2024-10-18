@@ -24,8 +24,8 @@ The following files should be run in the order as described below. Any files not
 3. `transaction_preprocess.ipynb`:  This notebook preprocesses the transaction data. 
 4. `adding_external.ipynb`: This notebook combines all the data provided with the external datasets. [The links to the external datasets have been provided in the notebooks and below as well. The names of the files have been maintained as the same]
 5. `imputation.ipynb`: This notebook imputates any missing fraud values and also segments merchant data 
-6. `findings.ipynb`: This notebook discusses any findings found in data analysis 
-7. `findings2.ipynb`: This notebook discusses any findings found in data analysis 
+6. `misc_findings.ipynb`: This notebook discusses miscellaneous findings found during data analysis 
+7. `misc_fraud_findings.ipynb`: This notebook discusses any fraud findings found during data analysis 
 8. `rankings.ipynb`: This notebook contains the final rankings for the merchants 
 
 
