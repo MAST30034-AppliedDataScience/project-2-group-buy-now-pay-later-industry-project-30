@@ -29,12 +29,14 @@ The following files should be run in the order as described below. Any files not
 8. `rankings.ipynb`: This notebook contains the final rankings for the merchants 
 
 
-# EXTERNAL DATA 
+# External Data
+These should be downloaded to `data/landing`.
+
 1. ABS Retail Data 
 https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
 
 2. ABS Census Data 
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
 
-3. SHAPEFILE Data 
+3. ABS Shapefile Data 
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
