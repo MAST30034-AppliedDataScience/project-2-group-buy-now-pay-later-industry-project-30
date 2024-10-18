@@ -29,10 +29,16 @@ Please update this README file as you add new data.
 - An additional mapping table has been provided to join the two datasets together.
 
 
-## Census Data 
+## Census Data
+- The Census data from the ABS webiste for Australia has been downloaded and joined to the original data based on the `postcode` of the consumer.
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
 
-- The 2021 recent release of census data has been used to combine with the originally provided data. The datasets have been combined based on the postcodes of consumers 
+## Retail Sales Data
+- The Retail Sales data for Australia has been downloaded for our timeframe and joined based on `stat`e, `month` and `year` of the consumers and the day they make the orders.
+https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
 
+## SA2 Shapefile
+- The Shapefile based on SA2 contains features for any geospatial analysis 
+https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
 
-## Retail Sales Data 
-- The retail monthly sales by state from the ABS Website has been and combined with the original data based on month, location and year. 
+Note: The name of the files for the data downloaded have been mainted for consitency and ease of use. 
