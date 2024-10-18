@@ -9,7 +9,6 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 - The repository shows how we have determined the best 100 merchants for a BNPL system that applies a 5 installment payment system. 
 
 
-
 # Members
 
 1. Name: `Andy Chen` | Student Number: `1353448`
@@ -23,7 +22,7 @@ The following files should be run in the order as described below. Any files not
 1. `consumer_preprocess.ipynb`: This notebook preprocesses the consumer data. 
 2. `merchant_preprocess.ipynb`:  This notebook preprocesses the merchant data. 
 3. `transaction_preprocess.ipynb`:  This notebook preprocesses the transaction data. 
-4. `addingexternal.ipynb`: This notebook combines all the data provided with the external datasets. [The links to the external datasets have been provided in the notebooks and below as well. The names of the files have been maintained as the same]
+4. `adding_external.ipynb`: This notebook combines all the data provided with the external datasets. [The links to the external datasets have been provided in the notebooks and below as well. The names of the files have been maintained as the same]
 5. `imputation.ipynb`: This notebook imputates any missing fraud values and also segments merchant data 
 6. `findings.ipynb`: This notebook discusses any findings found in data analysis 
 7. `findings2.ipynb`: This notebook discusses any findings found in data analysis 
