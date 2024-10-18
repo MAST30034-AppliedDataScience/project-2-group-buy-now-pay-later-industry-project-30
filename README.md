@@ -5,7 +5,9 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 
 # Summary 
 
-- This repostiory contains the code to run **Industry Project Group 30's** work on the BNPL project for MAST30034: Applied Data Science 
+- This repostiory contains the code to run **Industry Project Group 30's** work on the BNPL project for MAST30034: Applied Data Science.
+- The repository shows how we have determined the best 100 merchants for a BNPL system that applies a 5 installment payment system. 
+
 
 
 # Members
@@ -16,7 +18,7 @@ Note to groups: Make sure to read the `README.md` located in `./data/README.md` 
 
 # Running the Files 
 
-The following files should be run in the order as described below.
+The following files should be run in the order as described below. Any files not listed containing working that has not been included a part of the final process. 
 
 1. `consumer_preprocess.ipynb`: This notebook preprocesses the consumer data. 
 2. `merchant_preprocess.ipynb`:  This notebook preprocesses the merchant data. 
